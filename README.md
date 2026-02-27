@@ -1,2 +1,2 @@
 # html-project
-i have develop Calculator with HTML,CSS,JAVASCRIPT 
+I have develop Calculator with HTML,CSS,JAVASCRIPT 
